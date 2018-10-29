@@ -1,2 +1,2 @@
-#QL GIT PROJECT LAB
+# QL GIT PROJECT LAB
 Beer me, bruh.
